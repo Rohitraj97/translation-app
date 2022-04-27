@@ -5,7 +5,7 @@ This project is done to translate an national language to another national langu
 
 This is the API for this project : https://libretranslate.de/translate
 
-[Deployed link](https://superlative-hamster-93e7e6.netlify.app/)
+[Deployed link](https://silly-biscochitos-45bd7e.netlify.app)
 
 
 
